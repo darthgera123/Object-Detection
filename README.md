@@ -23,3 +23,7 @@ This repo contains some of my experiments with object detection algorithms. This
 + [YoloV5 Pytorch](https://github.com/ultralytics/yolov5)
 ## Videos
 + [YoloV5 training](https://www.youtube.com/watch?v=NU9Xr_NYslo)
+
+## Competitions
++ [MASKD- AIcrowd Blitz](https://www.aicrowd.com/challenges/aicrowd-blitz-2/problems/maskd)
++ [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
