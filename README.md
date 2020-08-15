@@ -13,6 +13,7 @@ This repo contains some of my experiments with object detection algorithms. This
 + [YoloV5 vs Faster_RCNN](https://towardsdatascience.com/yolov5-compared-to-faster-rcnn-who-wins-a771cd6c9fb4)
 + [Cascade RCNN](https://medium.com/@sh.tsang/reading-cascade-r-cnn-delving-into-high-quality-object-detection-object-detection-8c7901cc7864)
 + [Hybrid Task Cascade](https://deepai.org/publication/hybrid-task-cascade-for-instance-segmentation)
++ [SSD](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
 ### Training
 + [Training EfficientDet](https://towardsdatascience.com/training-efficientdet-object-detection-model-with-a-custom-dataset-25fb0f190555)
 + [YOLOV5 Training](https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208)
@@ -22,6 +23,7 @@ This repo contains some of my experiments with object detection algorithms. This
 + [EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 + [DetectoRS Pytorch](https://github.com/joe-siyuan-qiao/DetectoRS/tree/612916ba89ad6452b07ae52d3a6ec8d34a792608)
 + [YoloV5 Pytorch](https://github.com/ultralytics/yolov5)
++ [SSD](https://github.com/pierluigiferrari/ssd_keras)
 ## Videos
 + [YoloV5 training](https://www.youtube.com/watch?v=NU9Xr_NYslo)
 
